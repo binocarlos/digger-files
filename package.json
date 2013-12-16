@@ -1,6 +1,6 @@
 {
   "name": "digger-files",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "The base level file supplier for digger",
   "main": "src/index.js",
   "directories": {
