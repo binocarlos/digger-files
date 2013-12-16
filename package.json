@@ -1,7 +1,7 @@
 {
   "name": "digger-files",
   "version": "1.0.1",
-  "description": "The base level file supplier for digger",
+  "description": "File uploader and CSV file importer for digger",
   "main": "src/index.js",
   "directories": {
     "test": "test"
